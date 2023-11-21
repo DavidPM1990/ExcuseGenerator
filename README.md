@@ -13,7 +13,7 @@ Este proyecto consiste en un simple generador de excusas desarrollado como parte
 - CSS3
 - JavaScript
 
-## Instrucciones para Corrección
+## Instrucciones para clonar
 
 1. **Clonar el Repositorio:**
    ```bash
